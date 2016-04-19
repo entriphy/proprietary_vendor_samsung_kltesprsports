@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kltesprsports/proprietary/etc/sap.conf:system/etc/sap.conf \
     vendor/samsung/kltesprsports/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/kltesprsports/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
-    vendor/samsung/kltesprsports/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/kltesprsports/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/kltesprsports/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/samsung/kltesprsports/proprietary/lib/libperipheral_client.so:system/lib/libperipheral_client.so \
