@@ -28,10 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/kltesprsports/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/kltesprsports/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/kltesprsports/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/kltesprsports/proprietary/vendor/firmware/bcm2079xB4_firmware.ncd:system/vendor/firmware/bcm2079xB4_firmware.ncd \
-    vendor/samsung/kltesprsports/proprietary/vendor/firmware/bcm2079xB4_pre_firmware.ncd:system/vendor/firmware/bcm2079xB4_pre_firmware.ncd \
-    vendor/samsung/kltesprsports/proprietary/vendor/firmware/bcm2079xB5_firmware.ncd:system/vendor/firmware/bcm2079xB5_firmware.ncd \
-    vendor/samsung/kltesprsports/proprietary/vendor/firmware/bcm2079xB5_pre_firmware.ncd:system/vendor/firmware/bcm2079xB5_pre_firmware.ncd \
+    vendor/samsung/kltesprsports/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin:system/vendor/firmware/sec_s3fwrn5_firmware.bin \
     vendor/samsung/kltesprsports/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/kltesprsports/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/kltesprsports/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
